@@ -1,4 +1,4 @@
-# AIビア・コンシェルジュ - Streamlit版
+# AIビールコンシェルジュ - Streamlit版
 
 ## 概要
 
