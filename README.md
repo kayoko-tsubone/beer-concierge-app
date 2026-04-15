@@ -136,4 +136,4 @@ MIT License
 
 ## 作成者
 
-Aidemy最終課題成果物
+Kayoko　Tsubone
